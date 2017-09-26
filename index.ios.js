@@ -20,7 +20,6 @@ export default class githubRN extends Component {
     super(props);
     this.state = {
       selectedTab: "home",
-      sceondState: "second",
     }
   }
 
